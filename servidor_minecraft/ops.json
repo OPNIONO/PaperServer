@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "06d082fc-1f22-3659-9cbd-8715295f2739",
+    "name": "ExpertDead",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "21cedc47-1fd1-30a8-bfcf-4a918ddd9d08",
+    "name": "expertdead",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
