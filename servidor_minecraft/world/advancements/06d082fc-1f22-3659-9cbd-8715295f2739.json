@@ -8,16 +8,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-05-26 05:29:49 +0000",
-      "minecraft:frozen_ocean": "2025-05-26 05:29:14 +0000",
       "minecraft:beach": "2025-05-26 05:29:51 +0000",
-      "minecraft:frozen_river": "2025-05-26 05:24:33 +0000",
+      "minecraft:forest": "2025-05-26 05:43:54 +0000",
       "minecraft:taiga": "2025-05-26 05:25:43 +0000",
+      "minecraft:river": "2025-05-26 05:43:53 +0000",
+      "minecraft:snowy_plains": "2025-05-26 05:24:21 +0000",
+      "minecraft:snowy_taiga": "2025-05-26 05:24:53 +0000",
+      "minecraft:frozen_ocean": "2025-05-26 05:29:14 +0000",
+      "minecraft:frozen_river": "2025-05-26 05:24:33 +0000",
       "minecraft:windswept_forest": "2025-05-26 05:25:42 +0000",
       "minecraft:swamp": "2025-05-26 05:25:24 +0000",
-      "minecraft:snowy_plains": "2025-05-26 05:24:21 +0000",
       "minecraft:windswept_hills": "2025-05-26 05:25:41 +0000",
-      "minecraft:snowy_taiga": "2025-05-26 05:24:53 +0000",
-      "minecraft:snowy_beach": "2025-05-26 05:29:21 +0000"
+      "minecraft:snowy_beach": "2025-05-26 05:29:21 +0000",
+      "minecraft:plains": "2025-05-26 05:44:16 +0000"
     },
     "done": false
   },
@@ -156,6 +159,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-26 05:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-26 05:45:09 +0000"
     },
     "done": true
   },

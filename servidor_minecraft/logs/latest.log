@@ -65,3 +65,4 @@
 [05:32:53] [Server thread/INFO]: ExpertDead[/127.53.235.206:55265] logged in with entity id 2788 at ([world]279.23389711715197, 61.41548510113953, -521.8946655692307)
 [05:33:09] [Server thread/INFO]: ExpertDead issued server command: /gamemode creative
 [05:33:09] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
+[05:45:09] [Server thread/INFO]: Villager Villager['Farmer'/4803, uuid='3badc63d-c70b-417a-ad25-966f5cdde437', l='ServerLevel[world]', x=778.52, y=63.00, z=-246.88, cpos=[48, -16], tl=816, v=true] died, message: 'Farmer was slain by ExpertDead'
