@@ -66,3 +66,10 @@
 [05:33:09] [Server thread/INFO]: ExpertDead issued server command: /gamemode creative
 [05:33:09] [Server thread/INFO]: [ExpertDead: Set own game mode to Creative Mode]
 [05:45:09] [Server thread/INFO]: Villager Villager['Farmer'/4803, uuid='3badc63d-c70b-417a-ad25-966f5cdde437', l='ServerLevel[world]', x=778.52, y=63.00, z=-246.88, cpos=[48, -16], tl=816, v=true] died, message: 'Farmer was slain by ExpertDead'
+[05:51:18] [Server thread/INFO]: ExpertDead lost connection: Disconnected
+[05:51:18] [Server thread/INFO]: ExpertDead left the game
+[05:57:20] [User Authenticator #2/INFO]: UUID of player ExpertDead is 06d082fc-1f22-3659-9cbd-8715295f2739
+[05:57:21] [Server thread/INFO]: ExpertDead joined the game
+[05:57:21] [Server thread/INFO]: ExpertDead[/127.53.235.206:59527] logged in with entity id 7768 at ([world]1489.699999988079, 72.42283156420199, -373.694649581278)
+[05:57:44] [Server thread/INFO]: ExpertDead lost connection: Disconnected
+[05:57:44] [Server thread/INFO]: ExpertDead left the game
